@@ -5,7 +5,6 @@
 #### Linearization and transfer to State-Space: State-Space()
 #### Create Animation: Animate_Inv_Pdlm()
 
-
 ## Controller:
 #### 1- State Feedback Control with Animation:              Ctrlr_Inv_Pdlm.m
 #### 2- Servo Integrator for tracking desired trajectory:   Servo_Integrator_Inv_Pdlm.m
