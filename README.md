@@ -1,6 +1,5 @@
 ## Inverted-Pendulum-Control-with-state-feedback-and-observer
 ![alt text](https://github.com/98210184/Inverted-Pendulum-Control-with-state-feedback-and-observer/blob/master/image.png?raw=true)
-![alt text](https://github.com/98210184/Inverted-Pendulum-Control-with-state-feedback-and-observer/blob/master/image.png?raw=true)
 #### With this matlab files you able to Control Inverted Pendulum with Linear state-feedback Controller, Observer and descrete Controller
 
 ## Functions:
