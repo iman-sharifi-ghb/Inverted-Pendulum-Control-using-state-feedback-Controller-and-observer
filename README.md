@@ -1,5 +1,5 @@
 ## Inverted-Pendulum-Control-with-state-feedback-and-observer
-#### in this project you able to Control Inverted Pendulum with Linear state feedback Control and Observer
+#### With this matlab files you able to Control Inverted Pendulum with Linear state-feedback Controller and Observer and descrete Controller
 
 ## Functions:
 #### Linearization and transfer to State-Space: State-Space()
