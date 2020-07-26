@@ -1,5 +1,5 @@
-# Inverted-Pendulum-Control-with-state-feedback-and-observer
-## in this project you able to Control Inverted Pendulum with Linear state feedback Control and Observer
+## Inverted-Pendulum-Control-with-state-feedback-and-observer
+### in this project you able to Control Inverted Pendulum with Linear state feedback Control and Observer
 
 ## Controller:
 ### 1- Linearization, State-Space and State Feedback Control with Animation: controller_inverted_pendulum.m
