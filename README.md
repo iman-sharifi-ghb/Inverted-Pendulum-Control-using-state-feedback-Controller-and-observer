@@ -4,7 +4,7 @@
 ## Functions:
 #### Linearization and transfer to State-Space: _State-Space()_
 #### Create Animation: _Animate_Inv_Pdlm()_
-https://user-images.githubusercontent.com/60617560/88487928-b5cb3f80-cf9e-11ea-8558-32c0b1d63df1.png
+![alt text](https://github.com/98210184/Inverted-Pendulum-Control-with-state-feedback-and-observer/blob/master/image.png?raw=true)
 
 ## Controller:
 #### 1- State Feedback Control with Animation:              _Ctrlr_Inv_Pdlm.m_
